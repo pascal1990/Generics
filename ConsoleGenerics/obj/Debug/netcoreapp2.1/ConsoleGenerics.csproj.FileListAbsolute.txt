@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\bin\Debug\netcoreapp2.1\ConsoleGenerics.deps.json
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\bin\Debug\netcoreapp2.1\ConsoleGenerics.runtimeconfig.json
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\bin\Debug\netcoreapp2.1\ConsoleGenerics.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\bin\Debug\netcoreapp2.1\ConsoleGenerics.dll
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\bin\Debug\netcoreapp2.1\ConsoleGenerics.pdb
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\obj\Debug\netcoreapp2.1\ConsoleGenerics.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\obj\Debug\netcoreapp2.1\ConsoleGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\obj\Debug\netcoreapp2.1\ConsoleGenerics.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\obj\Debug\netcoreapp2.1\ConsoleGenerics.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\obj\Debug\netcoreapp2.1\ConsoleGenerics.dll
+C:\Users\Owner\source\repos\ConsoleGenerics\ConsoleGenerics\obj\Debug\netcoreapp2.1\ConsoleGenerics.pdb
